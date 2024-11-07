@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = 'AIzaSyCxBog3xD111CW86Mqks5T5IuZBx0hvbcQ'  
+API_KEY = 'put your own api Key'  
 API_URL = 'https://your-gemini-api-endpoint' 
 
 def predict_fraud(transaction):
